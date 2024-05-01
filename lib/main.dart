@@ -1,6 +1,5 @@
 import 'package:first/pages/map_pages.dart';
 import 'package:flutter/material.dart';
-import 'package:location/location.dart';
 
 void main() {
   runApp(const MyApp());
